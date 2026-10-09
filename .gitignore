@@ -1,0 +1,8 @@
+.godot/
+.local/
+*.log
+*.blend
+*.blend1
+*.fbx
+*.zip
+__pycache__/

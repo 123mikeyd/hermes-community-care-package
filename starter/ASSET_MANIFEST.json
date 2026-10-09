@@ -1,0 +1,95 @@
+{
+  "format_version": 1,
+  "assets": [
+    {
+      "file": "assets/mountain.glb",
+      "label": "Misty Mountain",
+      "bytes": 4187004,
+      "sha256": "5cae063d3a12204f2d3d851429634af53e0abba48370633705f3ad0ceffb36f7",
+      "meshes": 1,
+      "skins": 0,
+      "joints": [],
+      "animations": [],
+      "embedded_images": 0,
+      "external_dependencies": []
+    },
+    {
+      "file": "assets/tek.glb",
+      "label": "Teknium",
+      "bytes": 18761712,
+      "sha256": "b4dea1a050a6f3840025d6cd494891185ab2b6fab92a09565bd6aaf9f9261dc2",
+      "meshes": 1,
+      "skins": 1,
+      "joints": [
+        24
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run"
+      ],
+      "embedded_images": 1,
+      "external_dependencies": []
+    },
+    {
+      "file": "assets/doge.glb",
+      "label": "Doge Man",
+      "bytes": 28666080,
+      "sha256": "dbe152c6d5b6bdde00980431e25ccb3aa118e981e58af2c69178b9ccfc3820e2",
+      "meshes": 1,
+      "skins": 1,
+      "joints": [
+        24
+      ],
+      "animations": [
+        "Idle",
+        "Walk",
+        "Run"
+      ],
+      "embedded_images": 1,
+      "external_dependencies": []
+    },
+    {
+      "file": "assets/car.glb",
+      "label": "Car prop",
+      "bytes": 13155072,
+      "sha256": "f3a32f0beeb8e8b8807e1219f55035afb8c99c7ea52f923402eede36f56aae55",
+      "meshes": 1,
+      "skins": 0,
+      "joints": [],
+      "animations": [],
+      "embedded_images": 2,
+      "external_dependencies": []
+    },
+    {
+      "file": "assets/teknium/laser/laser_gun.tscn",
+      "label": "Teknium laser gun display component",
+      "bytes": 171840,
+      "sha256": "bc851b04673df166ea02d79e524ed68045937db0122ff4c63be6bfd07acf3008",
+      "external_dependencies": [
+        "assets/teknium/laser/teknium_laser_blast_texture_0.png",
+        "assets/teknium/laser/teknium_laser_blast_texture_0_metallic_roughness.png"
+      ]
+    },
+    {
+      "file": "assets/teknium/laser/teknium_laser_blast_texture_0.png",
+      "label": "Teknium laser gun display component",
+      "bytes": 19861730,
+      "sha256": "4271ee304588a160f6aa7f993aa84d9df14852dd5ed2b9da48d98edf20a5177c",
+      "external_dependencies": []
+    },
+    {
+      "file": "assets/teknium/laser/teknium_laser_blast_texture_0_metallic_roughness.png",
+      "label": "Teknium laser gun display component",
+      "bytes": 13535663,
+      "sha256": "fa2271bdfa2d35a7e43ee3a6511c63d172abc3dddc83c5c905f8bb3e34884ecd",
+      "external_dependencies": []
+    }
+  ],
+  "procedural_visuals": [
+    "Original Nous token (not recovered GGB)",
+    "Checkpoint beacon"
+  ],
+  "release": "v0.1.0-prototype",
+  "notice": "../NOTICE.md"
+}

@@ -1,0 +1,180 @@
+{
+  "release": "v0.1.0-prototype",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 64,
+      "sha256": "53137d1f3ce979db9e11e3fba259fc54bb26052721d7be66751650c399acb971"
+    },
+    {
+      "path": "animation-source/author_original_motion.py",
+      "bytes": 9502,
+      "sha256": "602fa3991b680c228ab71e66ea1302b623d8dc12d3a22ce8eb65fc4e088e39a4"
+    },
+    {
+      "path": "animation-source/original-locomotion.mp4",
+      "bytes": 503020,
+      "sha256": "48a065e7c52274f00592c61631b122cd37b4ce7a4b880208dc36b8f4a2b05b1c"
+    },
+    {
+      "path": "animation-source/README.md",
+      "bytes": 3067,
+      "sha256": "b8a44c5d6633da119aa13da3ae405414f87571fbe332d291d59a5fe86417b933"
+    },
+    {
+      "path": "docs/images/supply-drop.png",
+      "bytes": 29428,
+      "sha256": "17229475047eeaf1dd9ba28157a71dc7766fb6171f31c0aafe26d7bd638dc065"
+    },
+    {
+      "path": "docs/TEST_SCOPE.md",
+      "bytes": 1762,
+      "sha256": "f02a8502e0f94bd9d54e3df99be0d2794dcb572ebee25f8d16aa9b97355f438c"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1515,
+      "sha256": "eac6368fe5f4f0b4eb1c53634a38f5252a889f9b25a269d646b91ab7d652decd"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4685,
+      "sha256": "3778236ce80aae6f4c1d84722730740bb98dc300ef93bc6b7e9fc55057de0e69"
+    },
+    {
+      "path": "starter/.gitignore",
+      "bytes": 31,
+      "sha256": "015c76bc5e9f3edfc99ea52fa8d186e4a5d4c4f0a2bb8ea1641b6479c359c1e4"
+    },
+    {
+      "path": "starter/ASSET_MANIFEST.json",
+      "bytes": 2656,
+      "sha256": "03a7bb95a62bf77601b4cb7af594b2b4373ccacb924e8da1c4811a7b97c10b15"
+    },
+    {
+      "path": "starter/ASSET_STATUS.md",
+      "bytes": 708,
+      "sha256": "fc88bb9a1485348a7b1a4ff48985d9ddd53d32a477c187cff027c9292b5608db"
+    },
+    {
+      "path": "starter/assets/car.glb",
+      "bytes": 13155072,
+      "sha256": "f3a32f0beeb8e8b8807e1219f55035afb8c99c7ea52f923402eede36f56aae55"
+    },
+    {
+      "path": "starter/assets/doge.glb",
+      "bytes": 28666080,
+      "sha256": "dbe152c6d5b6bdde00980431e25ccb3aa118e981e58af2c69178b9ccfc3820e2"
+    },
+    {
+      "path": "starter/assets/doge.glb.import",
+      "bytes": 1203,
+      "sha256": "8fa6665182d68832fde6829bab21054e5fe540f6a41f151786297fde9aa66cc0"
+    },
+    {
+      "path": "starter/assets/mountain.glb",
+      "bytes": 4187004,
+      "sha256": "5cae063d3a12204f2d3d851429634af53e0abba48370633705f3ad0ceffb36f7"
+    },
+    {
+      "path": "starter/assets/tek.glb",
+      "bytes": 18761712,
+      "sha256": "b4dea1a050a6f3840025d6cd494891185ab2b6fab92a09565bd6aaf9f9261dc2"
+    },
+    {
+      "path": "starter/assets/tek.glb.import",
+      "bytes": 1200,
+      "sha256": "1e7d2a2959b8827f72d7ac2493c2a0c2f7fc55c73aa0ee834d2611afc6ca1562"
+    },
+    {
+      "path": "starter/assets/teknium/laser/laser_gun.tscn",
+      "bytes": 171840,
+      "sha256": "bc851b04673df166ea02d79e524ed68045937db0122ff4c63be6bfd07acf3008"
+    },
+    {
+      "path": "starter/assets/teknium/laser/teknium_laser_blast_texture_0.png",
+      "bytes": 19861730,
+      "sha256": "4271ee304588a160f6aa7f993aa84d9df14852dd5ed2b9da48d98edf20a5177c"
+    },
+    {
+      "path": "starter/assets/teknium/laser/teknium_laser_blast_texture_0_metallic_roughness.png",
+      "bytes": 13535663,
+      "sha256": "fa2271bdfa2d35a7e43ee3a6511c63d172abc3dddc83c5c905f8bb3e34884ecd"
+    },
+    {
+      "path": "starter/calibration.json",
+      "bytes": 540,
+      "sha256": "decc54f2611de957f3e239c8807923bdc7d969c747bca54ba3ceab620df34379"
+    },
+    {
+      "path": "starter/clouds.gdshader",
+      "bytes": 643,
+      "sha256": "acbfbc5099f3ee2bcc7c6fdb84750263596f0f6617cc0864bec68b377d9afc26"
+    },
+    {
+      "path": "starter/EDIT.cmd",
+      "bytes": 41,
+      "sha256": "9f2593073e45744bfae23564106369a727c76bec8b6b13267d4b91b8d3cd9a48"
+    },
+    {
+      "path": "starter/HERMES_PROMPTS.md",
+      "bytes": 1952,
+      "sha256": "7d0542786e1edfe5d9503b9a5a058e4ed728c1517c999aa75cba71a1ae1432b4"
+    },
+    {
+      "path": "starter/interaction_tests.gd",
+      "bytes": 3593,
+      "sha256": "41f283e3d37108029e11875be7bfda0ad69479b82a07f3166c000f92171a731d"
+    },
+    {
+      "path": "starter/interactions.gd",
+      "bytes": 4464,
+      "sha256": "aa4c2899401e578aba3c28fb8e71c10ece2ec1b292c90d528e97731c8cf1f8d6"
+    },
+    {
+      "path": "starter/LEARNING.md",
+      "bytes": 4060,
+      "sha256": "bc083ca1a388db0418709aff6ff165f168dcb852bfe8620ce41b57e54bdf7422"
+    },
+    {
+      "path": "starter/main.gd",
+      "bytes": 15454,
+      "sha256": "70272e074eb747d6f1eb3494fccaed1f6d7d2ce62839fd12743a013b7f51bced"
+    },
+    {
+      "path": "starter/Main.tscn",
+      "bytes": 566,
+      "sha256": "d5f609ee0924b209ecb563f827312d7503cac313be765314c4e1dc674eca1db8"
+    },
+    {
+      "path": "starter/PLAY.cmd",
+      "bytes": 128,
+      "sha256": "81a0f3d3df4e62f1543cb8805f1d2418cc733cf44e60e859c6f14977cca163f5"
+    },
+    {
+      "path": "starter/project.godot",
+      "bytes": 625,
+      "sha256": "330ac78f24b2340edec8d4ae6db8c9205f492a269fe55e6b128797a4854889ae"
+    },
+    {
+      "path": "starter/QUICKSTART.md",
+      "bytes": 4211,
+      "sha256": "0191aa391ca963bbc78505a43c6f87e0ddb7b2e3650bcb57d54cd9bd812172c7"
+    },
+    {
+      "path": "starter/README.md",
+      "bytes": 896,
+      "sha256": "2865a23e697256514934d042b1a6190d3cac168a3b5267b2870707b73bdb8c78"
+    },
+    {
+      "path": "starter/tools/launch.ps1",
+      "bytes": 1714,
+      "sha256": "30f6f58fe977a27ebfd4de37f0340f7d9ede98b39737a1c249058d88eadba396"
+    },
+    {
+      "path": "starter/verify.gd",
+      "bytes": 364,
+      "sha256": "1450510fec50ef4193d9c9f62c2e233233992ea8da7440488052b6ccfead8201"
+    }
+  ]
+}
