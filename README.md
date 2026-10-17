@@ -1,6 +1,18 @@
 ![Misty Mountain community supply drop](docs/images/supply-drop.png)
 
-# Misty Mountain · Community Care Package
+# Hermes Community Care Package
+
+A community toy box from Mike: editable art to experiment with, plus a small Godot learning prototype. Pick an asset or start with something playable.
+
+## Choose your starting point
+
+- **[Browse the illustrated Toy Box catalog](toy-box/README.md)** — individual Blender downloads, tested GLB exports where available, geometry counts and honest readiness notes.
+- **[New to the assets? Start here](toy-box/GETTING_STARTED.md)** — opening files, appending one object, and choosing a first experiment.
+- **[Play with the Misty Mountain starter](starter/QUICKSTART.md)** — the existing editable Godot prototype, described below.
+
+The Toy Box is an art collection, not a playable Pokémon Snap mod. The Godot starter is separate and unchanged. No blanket commercial-use artwork license is asserted; see [NOTICE.md](NOTICE.md).
+
+## Misty Mountain · Playable Community Starter
 
 **v0.1.0-prototype — a small, editable place to start making games.**
 Walk a mountain meadow as Teknium or Doge Man, collect a token, activate a checkpoint, then experiment in your own copy. Community-made by Mike with Hermes assistance; intentionally a testing and learning kit, not a finished game.
