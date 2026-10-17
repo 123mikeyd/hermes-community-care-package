@@ -10,4 +10,6 @@ Meshy's [generated-model ownership guidance](https://help.meshy.ai/en/articles/1
 
 Third-party names, likenesses, character designs, clothing motifs, logos and trademarks remain with their respective owners. This includes recognizable fan-art elements (for example Pokémon-inspired Teknium, superhero-inspired designs and other community character references). Model-sharing approval is not a grant of those third-party rights or an assertion of official endorsement. No blanket MIT-art, CC0, public-domain or unrestricted commercial-use license is applied to the collection. Consult the owner for asset-specific reuse beyond this learning context.
 
-No inherited animation library, dance clips, soundtrack, vehicle/livery model, ROM, private source archive or account material is included. Models are not branded as generic rights-cleared substitutes for the designs they depict. Arts Bro, Mephisto's Girl, Faded Demon and Heartbreaker are excluded entirely from this release and its illustrations.
+No inherited animation library, dance clips, soundtrack, vehicle/livery model, ROM, private source archive or account material is included. Models are not branded as generic rights-cleared substitutes for the designs they depict. Mephisto's Girl, Faded Demon and Heartbreaker are excluded entirely from this release and its illustrations.
+
+Arts Bro is included as a masked, model-only addition in v0.1.1 under the same community-learning scope. His supplied native rig and packed material maps are retained; the inherited Running Action is not distributed.

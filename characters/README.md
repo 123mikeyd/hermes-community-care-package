@@ -1,12 +1,18 @@
 # Community characters — model-only Blender catalog
 
-**45 individual .blend downloads; 24 base character identities.** Teknium appears once in that base roster and has additional skins/rig alternatives: **11 discovered full-body skin families represented by 18 full-body files**, plus **4 separate modular components**. These are not 45 different characters or 22 different Teknium skins.
+**46 individual .blend downloads; 25 base character identities.** Teknium appears once in that base roster and has additional skins/rig alternatives: **11 discovered full-body skin families represented by 18 full-body files**, plus **4 separate modular components**. These are not 46 different characters or 22 different Teknium skins.
 
-[Download release](https://github.com/123mikeyd/hermes-community-care-package/releases/tag/characters-v0.1.0) · [Getting started](GETTING_STARTED.md) · [Machine-readable catalog](catalog.json) · [Checksums](SHA256SUMS) · [Scoped notice](NOTICE.md)
+[Download release](https://github.com/123mikeyd/hermes-community-care-package/releases/tag/characters-v0.1.1) · [Getting started](GETTING_STARTED.md) · [Machine-readable catalog](catalog.json) · [Checksums](SHA256SUMS) · [Scoped notice](NOTICE.md)
 
 All files are **model-only**, saved in native rest display with packed textures. Zero Actions/NLA, no dances or inherited motion libraries. Native mesh density, UVs, materials, weights and rest bones are preserved. Rigged does not mean polished: rough weights remain. Static/unbound models are explicitly labeled. Optional GLBs were not qualified for this release, so only Blender files are provided.
 
-**Excluded entirely:** Arts Bro, Mephisto's Girl, Faded Demon and Heartbreaker. No full parade preview or combined parade scene is included. The existing Godot starter and earlier Toy Box releases are unchanged.
+**Excluded entirely:** Mephisto's Girl, Faded Demon and Heartbreaker. No full parade preview or combined parade scene is included. The existing Godot starter and earlier Toy Box releases are unchanged.
+
+## Arts Bro — masked rig addition
+
+The new masked Arts Bro is included with his existing bound 66-bone rig and three packed 4K maps. The original 45 downloads remain in [v0.1.0](https://github.com/123mikeyd/hermes-community-care-package/releases/tag/characters-v0.1.0); v0.1.1 adds only Arts Bro and refreshed catalog documents. Old files and release attachments were not replaced.
+
+<img src="thumbnails/arts-bro.png" width="360" alt="Arts Bro full-body masked rig"> <img src="thumbnails/arts-bro-mask-detail.png" width="360" alt="Arts Bro native mask detail">
 
 ## Browse
 
@@ -67,6 +73,7 @@ All files are **model-only**, saved in native rest display with packed textures.
 | <img src="thumbnails/teknium-midnight-violet.png" width="120" alt="Teknium Midnight Violet"> | **Teknium Midnight Violet**<br>Midnight Violet<br>Existing game palette reproduced, including game material constants; no new artist repaint. | 14,945 vertices<br>10,323 triangles | 24 bones.<br>Bound native rig; sampled deformation responds; rough weights, not production animation acceptance. | [.blend](https://github.com/123mikeyd/hermes-community-care-package/releases/download/characters-v0.1.0/teknium-midnight-violet.blend)<br>34.3 MiB |
 | <img src="thumbnails/teknium-emerald-forest.png" width="120" alt="Teknium Emerald Forest"> | **Teknium Emerald Forest**<br>Emerald Forest<br>Existing game palette reproduced, including game material constants; no new artist repaint. | 14,945 vertices<br>10,323 triangles | 24 bones.<br>Bound native rig; sampled deformation responds; rough weights, not production animation acceptance. | [.blend](https://github.com/123mikeyd/hermes-community-care-package/releases/download/characters-v0.1.0/teknium-emerald-forest.blend)<br>34.2 MiB |
 | <img src="thumbnails/teknium-tangerine-eggshell.png" width="120" alt="Teknium Tangerine Eggshell"> | **Teknium Tangerine Eggshell**<br>Tangerine Eggshell<br>Existing game palette reproduced, including game material constants; no new artist repaint. | 14,945 vertices<br>10,323 triangles | 24 bones.<br>Bound native rig; sampled deformation responds; rough weights, not production animation acceptance. | [.blend](https://github.com/123mikeyd/hermes-community-care-package/releases/download/characters-v0.1.0/teknium-tangerine-eggshell.blend)<br>34.3 MiB |
+| <img src="thumbnails/arts-bro.png" width="120" alt="Arts Bro"> | **Arts Bro**<br>Native masked model<br>Masked full-body model with the existing bound 66-bone rig. Three packed 4096 x 4096 texture maps. Separate unrigged duplicate omitted; no inherited Running Action. | 18,997 vertices<br>10,642 triangles | 66 bones.<br>Bound native rig; sampled deformation responds; rough weights, not production animation acceptance. | [.blend](https://github.com/123mikeyd/hermes-community-care-package/releases/download/characters-v0.1.1/arts-bro.blend)<br>34.2 MiB |
 
 ## Verification scope
 

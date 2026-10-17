@@ -1,19 +1,18 @@
 {
-  "version": "characters-v0.1.0",
+  "version": "characters-v0.1.1",
   "scope": "Individual model-only native Blender assets. No parade choreography, Actions, NLA, audio, stage or combined scene. No GLB claims.",
   "counts": {
-    "individual_blend_files": 45,
-    "base_character_identities": 24,
+    "individual_blend_files": 46,
+    "base_character_identities": 25,
     "additional_file_entries": 21,
     "teknium_full_body_skin_families": 11,
     "teknium_full_body_file_alternatives": 18,
     "standalone_modular_components": 4,
-    "bound_rig_files": 31,
+    "bound_rig_files": 32,
     "unbound_metarig_files": 4,
     "unrigged_files": 10
   },
   "excluded": [
-    "Arts Bro",
     "Mephisto's Girl",
     "Faded Demon",
     "Heartbreaker"
@@ -963,6 +962,27 @@
       "thumbnail": "thumbnails/teknium-tangerine-eggshell.png",
       "animation_actions": 0,
       "notes": "Existing game palette reproduced, including game material constants; no new artist repaint."
+    },
+    {
+      "id": "arts-bro",
+      "display_name": "Arts Bro",
+      "character": "Arts Bro",
+      "category": "Base character",
+      "skin_family": "Native masked model",
+      "rig_status": "Bound native rig; sampled deformation responds; rough weights, not production animation acceptance.",
+      "bone_count": 66,
+      "deformation_probe_pass": true,
+      "vertices": 18997,
+      "triangles": 10642,
+      "mesh_count": 1,
+      "format": "blend",
+      "blender_version": "5.2",
+      "bytes": 35859899,
+      "sha256": "62b4b4fb9973c91e117491886a72536926f05403a75f42cfddff982a6de92a93",
+      "download": "https://github.com/123mikeyd/hermes-community-care-package/releases/download/characters-v0.1.1/arts-bro.blend",
+      "thumbnail": "thumbnails/arts-bro.png",
+      "animation_actions": 0,
+      "notes": "Masked full-body model with the existing bound 66-bone rig. Three packed 4096 x 4096 texture maps. Separate unrigged duplicate omitted; no inherited Running Action."
     }
   ]
 }
