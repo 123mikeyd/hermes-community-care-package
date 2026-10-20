@@ -1,3 +1,7 @@
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](README.md)
+
+---
+
 # Quick start
 
 ## Open and run — Windows, macOS or Linux
@@ -61,3 +65,7 @@ Substitute your executable path (`godot.exe` on Windows, or the app bundle execu
 - **After an experiment fails:** stop, restore your backup or undo only the edit, then rerun. Keep the original ZIP unchanged.
 
 For sharing scope and third-party rights, read [NOTICE](../NOTICE.md). A successful test does not transfer third-party rights.
+
+---
+
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](README.md)

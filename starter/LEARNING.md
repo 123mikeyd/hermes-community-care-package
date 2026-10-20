@@ -1,3 +1,7 @@
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](README.md)
+
+---
+
 # Small Godot and Blender lessons
 
 Work in a copy, change one thing, run, then keep or undo. These are human-facing learning notes, not agent configuration. The checkpoint, collectible and E interaction already work; there is no need to build another game around them.
@@ -38,3 +42,7 @@ The gun illustrates why a hand-attachment transform differs from a display trans
 ## A useful stopping point
 
 Keep one screenshot, the exact test output and one sentence describing your change. Test a freshly extracted ZIP before handing it to someone else; caches can hide missing dependencies. Visual approval, runtime correctness and permission to share editable art are separate questions.
+
+---
+
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](README.md)

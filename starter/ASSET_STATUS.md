@@ -1,3 +1,7 @@
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](README.md)
+
+---
+
 # Included asset catalog
 
 | Component | Role |
@@ -10,3 +14,7 @@
 | Clouds / fog | Provisional environment presentation |
 
 See [NOTICE](../NOTICE.md) for the scoped community-prototype notice and [motion source](../animation-source/README.md). No source Blender library, old animation library, ROM, audio or unrelated game project is bundled.
+
+---
+
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](README.md)

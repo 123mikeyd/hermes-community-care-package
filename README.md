@@ -1,20 +1,37 @@
-![Misty Mountain community supply drop](docs/images/supply-drop.png)
+**🏠 Home** · [Characters](characters/README.md) · [Toy Box](toy-box/README.md) · [Playable Starter](starter/README.md)
+
+---
 
 # Hermes Community Care Package
 
-A community toy box from Mike: editable art to experiment with, plus a small Godot learning prototype. Pick an asset or start with something playable.
+**Pick a character, grab a prop, or try a small game.** Editable community creations from Mike.
 
-## Choose your starting point
+## 🧑 Characters
+Community characters and Teknium variants, with pictures and individual Blender downloads.
 
-- **[Browse individual characters and Teknium skins](characters/README.md)** — 44 model-only Blender downloads: 25 base character identities, source-backed Teknium skin/rig alternatives and separate modular parts. No inherited animation clips.
+**[Browse characters →](characters/README.md)** · [How to open a model](characters/GETTING_STARTED.md)
 
-- **[Browse the illustrated Toy Box catalog](toy-box/README.md)** — individual Blender downloads, tested GLB exports where available, geometry counts and honest readiness notes.
-- **[New to the assets? Start here](toy-box/GETTING_STARTED.md)** — opening files, appending one object, and choosing a first experiment.
-- **[Play with the Misty Mountain starter](starter/QUICKSTART.md)** — the existing editable Godot prototype, described below.
+## 📦 Toy Box
+Props, scenery and earlier character models. Blender files, plus GLB where available.
 
-The Toy Box is an art collection, not a playable Pokémon Snap mod. The Godot starter is separate and unchanged. No blanket commercial-use artwork license is asserted; see [NOTICE.md](NOTICE.md).
+**[Browse the Toy Box →](toy-box/README.md)** · [How to use an asset](toy-box/GETTING_STARTED.md)
 
-## Misty Mountain · Playable Community Starter
+## 🎮 Playable Starter
+Explore Misty Mountain as Teknium or Doge Man. A small editable Godot learning prototype—not a finished game or browser demo.
+
+**[Open the starter →](starter/README.md)** · [Download the starter](https://github.com/123mikeyd/hermes-community-care-package/releases/tag/v0.1.0-prototype)
+
+---
+
+**Downloading models?** Use the individual **.blend** or **GLB** links in the catalogs. GitHub's **Code → Download ZIP** does not include those release attachments.
+
+**Finding your way back?** Every guide has Home and section links at the top and bottom. You do not need the file sidebar.
+
+![Misty Mountain community supply drop](docs/images/supply-drop.png)
+
+<details>
+<summary><strong>More about the playable starter: contents, controls and limitations</strong></summary>
+
 
 **v0.1.0-prototype — a small, editable place to start making games.**
 Walk a mountain meadow as Teknium or Doge Man, collect a token, activate a checkpoint, then experiment in your own copy. Community-made by Mike with Hermes assistance; intentionally a testing and learning kit, not a finished game.
@@ -71,6 +88,13 @@ The invisible meadow walls can make the characters look silly when pushing into 
 
 The accepted gameplay was tested previously on Windows 11; original replacement motion received bounded import/pose checks. This publication only changes documentation and presentation labels and verifies packaging/upload integrity. It does not claim a new gameplay regression. Other platforms, browser/mobile exports and gamepads are unverified. See [verification scope](docs/TEST_SCOPE.md).
 
-## Community notice
 
-Shared by Mike as a community learning prototype with editable source. Existing artwork is Mike-provided; replacement locomotion is newly authored from native rest anatomy. Third-party names, designs, logos and trademarks remain the property of their respective owners. No official affiliation or endorsement by Nous Research, Nintendo, or any other referenced organization is implied. **No blanket MIT, CC0 or other artwork license is granted.** See [NOTICE.md](NOTICE.md) for scope; inclusion does not transfer third-party rights.
+</details>
+
+## Sharing and credits
+
+Community-made and unofficial. These mixed community/fan-art assets have no blanket commercial-use license. **[Read the sharing notice](NOTICE.md)** before redistributing.
+
+---
+
+**🏠 Home** · [Characters](characters/README.md) · [Toy Box](toy-box/README.md) · [Playable Starter](starter/README.md)

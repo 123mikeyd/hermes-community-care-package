@@ -1,3 +1,7 @@
+[🏠 Home](../README.md) · [Characters](README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](../starter/README.md)
+
+---
+
 # Community character model notice
 
 Mike authorized sharing these individual character models and Teknium variants for community learning and experimentation. This collection is an unofficial model-only prototype, not an official Nous Research product. The repository's existing [scoped notice](../NOTICE.md) remains unchanged; its description of the Godot starter's six locomotion clips applies to that starter, not to these animation-free character downloads.
@@ -13,3 +17,7 @@ Third-party names, likenesses, character designs, clothing motifs, logos and tra
 No inherited animation library, dance clips, soundtrack, vehicle/livery model, ROM, private source archive or account material is included. Models are not branded as generic rights-cleared substitutes for the designs they depict. Mephisto's Girl, Faded Demon and Heartbreaker are excluded entirely from this release and its illustrations.
 
 Arts Bro is included as a masked, model-only addition in v0.1.1 under the same community-learning scope. His supplied native rig and packed material maps are retained; the inherited Running Action is not distributed.
+
+---
+
+[🏠 Home](../README.md) · [Characters](README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](../starter/README.md)

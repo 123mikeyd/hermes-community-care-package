@@ -1,3 +1,7 @@
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](../starter/README.md)
+
+---
+
 # Verification scope
 
 ## Existing accepted baseline
@@ -13,3 +17,7 @@ The prior motion pass verified preserved mesh/skin/material/texture data and rem
 All runtime assets, motion, import settings, gameplay logic and tests are preserved. Only the application display name, HUD/help labels and an introductory comment are relabeled from review wording to community prototype. The existing internal user-data directory identifier is retained to avoid behavioral changes. Documentation and supply-drop banner are updated; the historical gameplay screenshot is omitted rather than presented as a new capture.
 
 Publication checks cover exact allowlists, file hashes, unchanged runtime content except the named labels, asset manifests, private-path/secret scanning, GitHub file sizes, ZIP paths/member hashes, staged and remote Git trees, README bytes, release asset metadata, and an actual downloaded release ZIP/checksum comparison. No gameplay rerun, animation change, new feature or additional platform validation is part of this publication pass.
+
+---
+
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](../starter/README.md)

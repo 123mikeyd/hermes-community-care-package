@@ -1,4 +1,10 @@
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · **Toy Box** · [Playable Starter](../starter/README.md)
+
+---
+
 # Community Toy Box — pick one asset
+
+**[Jump to models and downloads ↓](#browse-the-assets)**
 
 **18 individual Blender assets · 16 GLB exports · textured previews**
 
@@ -200,3 +206,7 @@ Start with one toy rather than downloading a whole collection. [Beginner guide](
 Checks cover source mesh/UV/material/transform preservation, packed image bytes and dimensions, fresh Blender reopening, and GLB reimport checks where offered. All thumbnails were visually reviewed. These checks do not establish optimized performance, working rig deformation, collision, animation, or game compatibility.
 
 The original full collections and the Misty Mountain playable starter remain unchanged. This release adds browsing and individual downloads; it does not add a new playable scene.
+
+---
+
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · **Toy Box** · [Playable Starter](../starter/README.md)

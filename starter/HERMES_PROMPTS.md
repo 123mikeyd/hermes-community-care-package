@@ -1,3 +1,7 @@
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](README.md)
+
+---
+
 # Optional conversation prompts
 
 For a person to copy into an ordinary Hermes conversation. This is not agent configuration, an installed skill, or an automatically executed instruction file. Replace `[my extracted copy]` with your own folder.
@@ -27,3 +31,7 @@ For a person to copy into an ordinary Hermes conversation. This is not agent con
 > Review the manifest and NOTICE. Check a fresh ZIP for missing files and private paths. Explain my changes and remaining prototype limitations. Do not upload my experiment without my approval.
 
 A helpful result is short: change, verified result, remaining limit and undo path. A screenshot demonstrates appearance, not asset rights.
+
+---
+
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](README.md)

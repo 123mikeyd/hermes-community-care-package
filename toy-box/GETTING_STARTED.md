@@ -1,3 +1,7 @@
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · [Toy Box](README.md) · [Playable Starter](../starter/README.md)
+
+---
+
 # Pick one toy and start small
 
 This collection is for experiments, not a promise of finished game-ready assets. Start with one prop before importing everything.
@@ -48,3 +52,7 @@ Read each catalog entry's notes and the [repository notice](../NOTICE.md). Recog
 ## Tell us what helped
 
 When reporting a problem, include the asset name, your Blender/engine version, what you tried, and a screenshot if useful. Distinguish import failures from feature requests such as collision, animation, or a new format.
+
+---
+
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · [Toy Box](README.md) · [Playable Starter](../starter/README.md)

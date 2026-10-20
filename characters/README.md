@@ -1,4 +1,10 @@
+[🏠 Home](../README.md) · **Characters** · [Toy Box](../toy-box/README.md) · [Playable Starter](../starter/README.md)
+
+---
+
 # Community characters — model-only Blender catalog
+
+**[Jump to models and downloads ↓](#individual-files)**
 
 **44 individual .blend downloads; 25 base character identities.** Teknium appears once in that base roster and has additional skins/rig alternatives: **10 discovered full-body skin families represented by 17 full-body files**, plus **3 separate modular components**. These are not 44 different characters or 20 different Teknium skins.
 
@@ -82,3 +88,7 @@ Every file was freshly reopened in background Blender 5.2. Geometry/topology/UV/
 Classic Chess Coat, Green Jacket (descriptive label), Cyber Boxer, Tactical, Green Boxer, Pokemon Hero, Burgundy Charcoal, Midnight Violet, Emerald Forest, and Tangerine Eggshell are the discovered full-body families. Rigged/unrigged and high/low-density alternatives remain separate downloads but not extra skins. Tactical and Cyber Boxer metarigs are unbound; the older Pokemon metarig is likewise unbound, while its separate bound-rig alternative deforms. MMO Head, Glasses and Anime Shades are components, not three finished characters. The former generic game-character entry is represented only once as tdamre.
 
 Discovery covered the parade/Fans/crew catalogs, the studio navigation index, the older Toy Box catalog, the active Legends costume configuration and all four referenced palettes, the Tek skin studies, Tek Boxer sources, Shadow Dock Pokemon integration, and modular MMO source. Animation-only revisions and vehicle/prop files were not counted as skins. This is the discovered, source-backed set—not a claim that no other artwork exists elsewhere.
+
+---
+
+[🏠 Home](../README.md) · **Characters** · [Toy Box](../toy-box/README.md) · [Playable Starter](../starter/README.md)

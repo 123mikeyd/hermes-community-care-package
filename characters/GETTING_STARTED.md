@@ -1,3 +1,7 @@
+[🏠 Home](../README.md) · [Characters](README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](../starter/README.md)
+
+---
+
 # Open an individual character
 
 1. Choose a model in [the visual catalog](README.md) and download its **.blend** attachment. GitHub's automatic source-code ZIP does not contain the large model files.
@@ -31,3 +35,7 @@ Get-FileHash .\doge-man.blend -Algorithm SHA256
 ```
 
 The hash must match exactly. The catalog and release notes include no private machine paths or source-library histories. Read [NOTICE.md](NOTICE.md) before redistribution; these mixed fan/community designs do not carry a blanket commercial artwork license.
+
+---
+
+[🏠 Home](../README.md) · [Characters](README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](../starter/README.md)

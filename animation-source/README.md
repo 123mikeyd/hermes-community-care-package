@@ -1,3 +1,7 @@
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](../starter/README.md)
+
+---
+
 # Original locomotion source
 
 This prototype replaces all six Teknium/Doge locomotion clips with original procedural poses. It does not reuse or retarget existing motion. The source first strips previous animation channels/accessors and physically rebuilds the binary from retained art views, then derives poses from the native rest anatomy.
@@ -27,3 +31,7 @@ Keep `starter/assets/tek.glb.import` and `doge.glb.import`: animation import is 
 [Original motion MP4](original-locomotion.mp4): 160 rendered frames, 24 fps, 640x480, 6.666667 seconds. Teknium is left, Doge right. Idle occupies frames 0–57, Walk 58–109, Run 110–159. These are real CPU Blender renders from the replacement GLBs, not generated concept footage. Characters are shown in-place so the whole loop remains visible. No Blender master scene is bundled.
 
 This is intentionally minimal prototype locomotion, not polished motion capture. Stable torso, bent knees, arm counter-swing and alternating foot support are visible. There is no new terrain-adaptive IK, sprint flight phase, cloth simulation or facial animation. Character mesh/skin/material/texture rights remain independent of original motion authorship. No other gameplay or art was redesigned.
+
+---
+
+[🏠 Home](../README.md) · [Characters](../characters/README.md) · [Toy Box](../toy-box/README.md) · [Playable Starter](../starter/README.md)
