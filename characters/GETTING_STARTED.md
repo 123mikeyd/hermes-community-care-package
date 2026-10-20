@@ -18,7 +18,7 @@ Files open with armatures in **Rest Position** for neutral model inspection. To 
 
 ## Picking a variant
 
-The same skin can have rigged, unrigged, metarig, high-density or low-density alternatives. These are not different characters. Pokemon Teknium's bound-rig file and older unbound-metarig file share the same native mesh/UV/packed-image data. Cyber Boxer has high-density, fast and low-poly alternatives. MMO Head, Body, Glasses and Anime Shades are separate components; they have not been merged, rigged or automatically fitted into a new assembly.
+The same skin can have rigged, unrigged, metarig, high-density or low-density alternatives. These are not different characters. Pokemon Teknium's bound-rig file and older unbound-metarig file share the same native mesh/UV/packed-image data. Cyber Boxer has high-density, fast and low-poly alternatives. MMO Head, Glasses and Anime Shades are separate components; they have not been merged, rigged or automatically fitted into a new assembly.
 
 Some models are very dense; check the per-file vertex/triangle counts and sizes. No collision shapes, LOD system, gameplay moves, game compatibility or optimized engine budget is promised.
 

@@ -6,7 +6,7 @@ A community toy box from Mike: editable art to experiment with, plus a small God
 
 ## Choose your starting point
 
-- **[Browse individual characters and Teknium skins](characters/README.md)** — 46 model-only Blender downloads: 25 base character identities, source-backed Teknium skin/rig alternatives and separate modular parts. No inherited animation clips.
+- **[Browse individual characters and Teknium skins](characters/README.md)** — 44 model-only Blender downloads: 25 base character identities, source-backed Teknium skin/rig alternatives and separate modular parts. No inherited animation clips.
 
 - **[Browse the illustrated Toy Box catalog](toy-box/README.md)** — individual Blender downloads, tested GLB exports where available, geometry counts and honest readiness notes.
 - **[New to the assets? Start here](toy-box/GETTING_STARTED.md)** — opening files, appending one object, and choosing a first experiment.
