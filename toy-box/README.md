@@ -6,15 +6,15 @@
 
 **[Jump to models and downloads ↓](#browse-the-assets)**
 
-**18 individual Blender assets · 16 GLB exports · textured previews**
+**16 individual Blender assets · 14 GLB exports · textured previews**
 
-Start with one toy rather than downloading a whole collection. [Beginner guide](GETTING_STARTED.md) · [Release downloads](https://github.com/123mikeyd/hermes-community-care-package/releases/tag/toy-box-v0.2.0) · [Original full collections](https://github.com/123mikeyd/hermes-community-care-package/releases/tag/toy-box-v0.1.0)
+Start with one toy rather than downloading a whole collection. [Beginner guide](GETTING_STARTED.md) · [Release downloads](https://github.com/123mikeyd/hermes-community-care-package/releases/tag/toy-box-v0.2.0) · [Original Pokémon collection](https://github.com/123mikeyd/hermes-community-care-package/releases/tag/toy-box-v0.1.0)
 
 ## Know what you are downloading
 
 - These are dense editable source meshes, not an optimized game-ready pack. Triangle counts are listed per asset.
 - Static props have no collision, interaction, or animation supplied. Characters are unrigged except for Pokémon Teknium's existing **unbound** metarig; it is not a working deformation-rig claim.
-- All individual Blender files have packed textures and were freshly reopened. Sixteen GLBs passed Blender reimport geometry/material checks; no particular engine or mod compatibility is promised.
+- All individual Blender files have packed textures and were freshly reopened. Fourteen GLBs passed Blender reimport geometry/material checks; no particular engine or mod compatibility is promised.
 - Jessie and Pokémon Teknium are Blender-only: their GLBs failed round-trip checks and are not included.
 - The head and each glasses variant are separate downloads. No source geometry was simplified or repaired for this release.
 - Recognizable Pokémon/Team Rocket fan art and Teknium designs are identified by name, not presented as generic rights-cleared art. No blanket commercial-use license is asserted. See [notice](../NOTICE.md).
@@ -151,16 +151,6 @@ Start with one toy rather than downloading a whole collection. [Beginner guide](
 
 [Download Blender — 69.3 MiB](https://github.com/123mikeyd/hermes-community-care-package/releases/download/toy-box-v0.2.0/wooden-docking-pier.blend) · [Download GLB — 77.4 MiB](https://github.com/123mikeyd/hermes-community-care-package/releases/download/toy-box-v0.2.0/wooden-docking-pier.glb)
 
-### MMO Teknium Warrior
-
-![MMO Teknium Warrior](thumbnails/mmo-teknium-warrior.png)
-
-**Unrigged character or component**
-
-731,748 vertices · 1,463,836 triangles
-
-[Download Blender — 92.8 MiB](https://github.com/123mikeyd/hermes-community-care-package/releases/download/toy-box-v0.2.0/mmo-teknium-warrior.blend) · [Download GLB — 95.7 MiB](https://github.com/123mikeyd/hermes-community-care-package/releases/download/toy-box-v0.2.0/mmo-teknium-warrior.glb)
-
 ### MMO Teknium Anime Shades
 
 ![MMO Teknium Anime Shades](thumbnails/mmo-teknium-anime-shades.png)
@@ -170,16 +160,6 @@ Start with one toy rather than downloading a whole collection. [Beginner guide](
 27,146 vertices · 54,288 triangles
 
 [Download Blender — 20.8 MiB](https://github.com/123mikeyd/hermes-community-care-package/releases/download/toy-box-v0.2.0/mmo-teknium-anime-shades.blend) · [Download GLB — 43.5 MiB](https://github.com/123mikeyd/hermes-community-care-package/releases/download/toy-box-v0.2.0/mmo-teknium-anime-shades.glb)
-
-### MMO Teknium Body
-
-![MMO Teknium Body](thumbnails/mmo-teknium-body.png)
-
-**Unrigged character or component**
-
-394,989 vertices · 789,987 triangles
-
-[Download Blender — 58.2 MiB](https://github.com/123mikeyd/hermes-community-care-package/releases/download/toy-box-v0.2.0/mmo-teknium-body.blend) · [Download GLB — 71.0 MiB](https://github.com/123mikeyd/hermes-community-care-package/releases/download/toy-box-v0.2.0/mmo-teknium-body.glb)
 
 ### MMO Teknium Glasses
 
@@ -205,7 +185,7 @@ Start with one toy rather than downloading a whole collection. [Beginner guide](
 
 Checks cover source mesh/UV/material/transform preservation, packed image bytes and dimensions, fresh Blender reopening, and GLB reimport checks where offered. All thumbnails were visually reviewed. These checks do not establish optimized performance, working rig deformation, collision, animation, or game compatibility.
 
-The original full collections and the Misty Mountain playable starter remain unchanged. This release adds browsing and individual downloads; it does not add a new playable scene.
+The original Pokémon collection and the Misty Mountain playable starter remain unchanged. The older combined MMO collection has been withdrawn; the separate head and glasses downloads remain available. This release adds browsing and individual downloads; it does not add a new playable scene.
 
 ---
 

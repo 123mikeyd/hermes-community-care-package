@@ -1,8 +1,8 @@
 {
   "release": "toy-box-v0.2.0",
-  "asset_count": 18,
-  "blend_count": 18,
-  "glb_count": 16,
+  "asset_count": 16,
+  "blend_count": 16,
+  "glb_count": 14,
   "assets": [
     {
       "slug": "industrial-blast-door",
@@ -213,22 +213,6 @@
       "verification": "Blender source preservation and fresh reopen checked. GLB round-trip checked where offered; not an engine compatibility test."
     },
     {
-      "slug": "mmo-teknium-warrior",
-      "display_name": "MMO Teknium Warrior",
-      "type": "character",
-      "vertices": 731748,
-      "triangles": 1463836,
-      "rig_bones": 0,
-      "rig_status": "No armature",
-      "blend_url": "https://github.com/123mikeyd/hermes-community-care-package/releases/download/toy-box-v0.2.0/mmo-teknium-warrior.blend",
-      "blend_bytes": 97347387,
-      "thumbnail": "thumbnails/mmo-teknium-warrior.png",
-      "glb_url": "https://github.com/123mikeyd/hermes-community-care-package/releases/download/toy-box-v0.2.0/mmo-teknium-warrior.glb",
-      "glb_bytes": 100364068,
-      "status": "Unrigged character or component",
-      "verification": "Blender source preservation and fresh reopen checked. GLB round-trip checked where offered; not an engine compatibility test."
-    },
-    {
       "slug": "mmo-teknium-anime-shades",
       "display_name": "MMO Teknium Anime Shades",
       "type": "accessory",
@@ -241,22 +225,6 @@
       "thumbnail": "thumbnails/mmo-teknium-anime-shades.png",
       "glb_url": "https://github.com/123mikeyd/hermes-community-care-package/releases/download/toy-box-v0.2.0/mmo-teknium-anime-shades.glb",
       "glb_bytes": 45613764,
-      "status": "Unrigged character or component",
-      "verification": "Blender source preservation and fresh reopen checked. GLB round-trip checked where offered; not an engine compatibility test."
-    },
-    {
-      "slug": "mmo-teknium-body",
-      "display_name": "MMO Teknium Body",
-      "type": "modular body",
-      "vertices": 394989,
-      "triangles": 789987,
-      "rig_bones": 0,
-      "rig_status": "No armature",
-      "blend_url": "https://github.com/123mikeyd/hermes-community-care-package/releases/download/toy-box-v0.2.0/mmo-teknium-body.blend",
-      "blend_bytes": 61052837,
-      "thumbnail": "thumbnails/mmo-teknium-body.png",
-      "glb_url": "https://github.com/123mikeyd/hermes-community-care-package/releases/download/toy-box-v0.2.0/mmo-teknium-body.glb",
-      "glb_bytes": 74408824,
       "status": "Unrigged character or component",
       "verification": "Blender source preservation and fresh reopen checked. GLB round-trip checked where offered; not an engine compatibility test."
     },

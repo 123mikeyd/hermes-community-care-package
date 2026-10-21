@@ -10,7 +10,7 @@ This collection is for experiments, not a promise of finished game-ready assets.
 
 - **Individual Blender file:** editable object, its materials, and packed textures. Character dependencies are included where stated on the catalog card.
 - **GLB, where offered:** an exchange-format copy. Read the card's verification notes; an export is not a completed mod integration.
-- **Original full collections:** available in the [first Toy Box release](https://github.com/123mikeyd/hermes-community-care-package/releases/tag/toy-box-v0.1.0). These remain available for people who prefer the whole set.
+- **Original Pokémon collection:** available in the [first Toy Box release](https://github.com/123mikeyd/hermes-community-care-package/releases/tag/toy-box-v0.1.0). The Pokémon collection remains available. The combined MMO collection has been withdrawn; use the separate head and glasses downloads in the catalog.
 
 Download the actual named asset under the release's **Assets** section. GitHub's automatic **Source code** archives contain repository files, not the large Blender release attachments.
 
