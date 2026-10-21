@@ -376,9 +376,9 @@
       "notes": ""
     },
     {
-      "id": "su-madre",
-      "display_name": "Su Madre",
-      "character": "Su Madre",
+      "id": "tu-madre",
+      "display_name": "Tu Madre",
+      "character": "Tu Madre",
       "category": "Base character",
       "skin_family": "Native model",
       "rig_status": "Bound native rig; sampled deformation responds; rough weights, not production animation acceptance.",
@@ -391,8 +391,8 @@
       "blender_version": "5.2",
       "bytes": 20348621,
       "sha256": "1a125cedc3e8d4a9a824b3dad79e425154964bd33404ca53842efc40cd9a063d",
-      "download": "https://github.com/123mikeyd/hermes-community-care-package/releases/download/characters-v0.1.0/su-madre.blend",
-      "thumbnail": "thumbnails/su-madre.png",
+      "download": "https://github.com/123mikeyd/hermes-community-care-package/releases/download/characters-v0.1.0/tu-madre.blend",
+      "thumbnail": "thumbnails/tu-madre.png",
       "animation_actions": 0,
       "notes": "Also known as tu_madre."
     },
